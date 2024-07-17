@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🤝I'm a software Engineer.<br>🔭 I’m currently working on Frontend web dev with React JS and CSS<br>🌱 I’m currently learning Java for Backend Development<br>💬 Lets connect!<br>⚡ Follow me in my journey to become a Fullstack developer!
+🤝 I'm a software Engineer.<br>🔭 I’m currently working on Frontend web dev with React JS and CSS<br>🌱 I’m currently learning Java for Backend Development<br>💬 Lets connect!<br>⚡ Follow me in my journey to become a Fullstack developer!
 
 
 ## 🌐 Socials:
